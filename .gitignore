@@ -45,4 +45,4 @@ pnpm-lock.yaml
 .git
 
 # data
-/config/user-data
+/config/sample-data
