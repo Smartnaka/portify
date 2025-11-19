@@ -32,26 +32,7 @@ export function ShadowFooter() {
               </Link>
               , a software engineer 
             </p>
-            <div className="flex items-center justify-center space-x-2 text-xs text-black/50">
-              <span>Template Created by</span>
-              <Link
-                href="https://github.com/bright-bassey"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-black/60 hover:text-black underline underline-offset-2"
-              >
-                Bright Bassey
-              </Link>
-              <span>•</span>
-              <Link
-                href={AppSettingData.githubUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-black/60 hover:text-black underline underline-offset-2"
-              >
-                Create Your Portfolio Now
-              </Link>
-            </div>
+  
           </motion.div>
         </motion.div>
       </div>
