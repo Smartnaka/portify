@@ -1,7 +1,7 @@
 export interface IWorkExperience {
   company: string;
   companyUrl?: string;
-npm run init-config  projectUrl?: string;
+  projectUrl?: string;
   position: string;
   period: string;
   responsibilities: string[];
