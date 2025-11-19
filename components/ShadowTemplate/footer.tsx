@@ -21,16 +21,16 @@ export function ShadowFooter() {
             className="text-center border-t border-black/5 pt-8"
           >
             <p className="text-black/60 text-sm mb-3">
-              This portfolio was built with{" "}
+              This portfolio was built by{" "}
               <Link
-                href="https://github.com/IDAN-DEVS/portify"
+                href="https://github.com/Smartnaka"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-500 hover:text-blue-600 font-medium"
               >
-                Portify
+                Smartnaka
               </Link>
-              , an open-source portfolio builder
+              , a software engineer 
             </p>
             <div className="flex items-center justify-center space-x-2 text-xs text-black/50">
               <span>Template Created by</span>
