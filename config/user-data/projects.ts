@@ -36,7 +36,7 @@ export const UserProjectsData: Project[] = [
 
   {
     title: "RemindMe",
-    role: "Creator",
+    role: "Mobile App developer",
     description:
       "RemindMe is a sleek, intelligent lecture scheduling assistant designed to help students never miss a class. Built with TypeScript, it provides smart scheduling, local notifications, offline support, and an intuitive UI for managing lectures and reminders.",
     url: "https://github.com/Smartnaka/remindme",
